@@ -18,3 +18,8 @@ Hydra-VOS is a virtual operating system (OS) refers to a software-based emulatio
 
 
 <img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023521.png" width="100%"></img>
+
+<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023538.png" width="100%"></img>
+
+
+<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023618.png" width="100%"></img>
